@@ -3,8 +3,7 @@ This is an easy exercise for beginners in the  Dockers and ELK's world.
 
 ## Elasticsearch, Logstash, Kibana (ELK) Docker image
 
-This is a basic ELK stack in Docker image provides a convenient centralised log server and log management web interface, by packaging Elasticsearch, Logstash, and Kibana.
-
+This is a basic ELK stack where with the help of Docker images they provide a convenient centralized log server and log management web interface, packaging Elasticsearch, Logstash and Kibana.
 
 ## Description
 Once we set up Docker, we will deploy a container running Elasticsearch, Kibana, and Logstash in the same system. 
